@@ -1,0 +1,117 @@
+export const blogPosts = [
+    {
+        id: 1,
+        title: "The Benefits Of Traveling With A Second Language",
+        titleDetail: 'Ai Virtual Assistants To Increase Your Productivity',
+        author: "Jessica Smith",
+        comments: 8,
+        excerpt:
+            "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form...",
+        imageUrl: "/img2.webp",
+        images: '/img5.webp',
+        tags: ["Lifestyle", "Trending"],
+        views: 616,
+        readTime: "3 Min Read",
+        summary: "A summary is a brief statement that gives the main points or essential information of a longer text, event, or document. It provides a condensed overview of the original content without including extensive details, personal opinions, or unrelated information. Summaries serve to quickly inform readers or listeners about the substance of something, allowing them to understand the core idea or make a decision on whether to engage with the full material."
+    },
+    {
+        id: 2,
+        title: "Healthy Cooking Made Easy With Nutritious Recipes",
+        titleDetail: 'Ai Virtual Assistants To Increase Your Productivity',
+        author: "Jessica Smith",
+        comments: 0,
+        excerpt:
+            "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form...",
+        imageUrl: "/img3.webp",
+        images: '/img6.webp',
+        tags: ["Entertainment", "Travel"],
+        views: 678,
+        readTime: "4 Min Read",
+        summary: "A summary is a brief statement that gives the main points or essential information of a longer text, event, or document. It provides a condensed overview of the original content without including extensive details, personal opinions, or unrelated information. Summaries serve to quickly inform readers or listeners about the substance of something, allowing them to understand the core idea or make a decision on whether to engage with the full material."
+    },
+    {
+        id: 3,
+        title: "Shaping Tomorrow's Landscape Of Intelligent Machines",
+        titleDetail: 'Ai Virtual Assistants To Increase Your Productivity',
+        author: "Jessica Smith",
+        comments: 0,
+        excerpt:
+            "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form...",
+        imageUrl: "/img4.webp",
+        images: '/img7.webp',
+        tags: ["Inspiration", "Music"],
+        views: 877,
+        readTime: "3 Min Read",
+        summary: "A summary is a brief statement that gives the main points or essential information of a longer text, event, or document. It provides a condensed overview of the original content without including extensive details, personal opinions, or unrelated information. Summaries serve to quickly inform readers or listeners about the substance of something, allowing them to understand the core idea or make a decision on whether to engage with the full material."
+    },
+    {
+        id: 4,
+        title: "Hidden Ways To Save Money That You Might Be Missing",
+        titleDetail: 'Ai Virtual Assistants To Increase Your Productivity',
+        author: "Jessica Smith",
+        comments: 2,
+        excerpt: "Lorem Ipsum is simply dummy text of the printing and typesetting industry...",
+        imageUrl: "/img5.webp",
+        images: '/img8.webp',
+        tags: ["Gadget", "Trending"],
+        views: 540,
+        readTime: "2 Min Read",
+        summary: "A summary is a brief statement that gives the main points or essential information of a longer text, event, or document. It provides a condensed overview of the original content without including extensive details, personal opinions, or unrelated information. Summaries serve to quickly inform readers or listeners about the substance of something, allowing them to understand the core idea or make a decision on whether to engage with the full material."
+    },
+    {
+        id: 5,
+        title: "Top 10 Ideas For Your Next Home Renovation",
+        titleDetail: 'Ai Virtual Assistants To Increase Your Productivity',
+        author: "Jessica Smith",
+        comments: 5,
+        excerpt: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s...",
+        imageUrl: "/img6.webp",
+        images: '/img-1.webp',
+        tags: ["Ideas", "Lifestyle"],
+        views: 450,
+        readTime: "5 Min Read",
+        summary: "A summary is a brief statement that gives the main points or essential information of a longer text, event, or document. It provides a condensed overview of the original content without including extensive details, personal opinions, or unrelated information. Summaries serve to quickly inform readers or listeners about the substance of something, allowing them to understand the core idea or make a decision on whether to engage with the full material."
+    },
+    {
+        id: 6,
+        title: "Music Trends Shaping 2025",
+        titleDetail: 'Ai Virtual Assistants To Increase Your Productivity',
+        author: "Jessica Smith",
+        comments: 1,
+        excerpt:
+            "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text...",
+        imageUrl: "/img7.webp",
+        images: '/img2.webp',
+        tags: ["Music", "Trending"],
+        views: 670,
+        readTime: "3 Min Read",
+        summary: "A summary is a brief statement that gives the main points or essential information of a longer text, event, or document. It provides a condensed overview of the original content without including extensive details, personal opinions, or unrelated information. Summaries serve to quickly inform readers or listeners about the substance of something, allowing them to understand the core idea or make a decision on whether to engage with the full material."
+    },
+    {
+        id: 7,
+        title: "Travel Essentials You Can't Forget",
+        titleDetail: 'Ai Virtual Assistants To Increase Your Productivity',
+        author: "Jessica Smith",
+        comments: 0,
+        excerpt: "Lorem Ipsum is simply dummy text of the printing and typesetting industry...",
+        imageUrl: "/img8.webp",
+        tags: ["Travel", "Lifestyle"],
+        views: 780,
+        readTime: "4 Min Read",
+        summary: "A summary is a brief statement that gives the main points or essential information of a longer text, event, or document. It provides a condensed overview of the original content without including extensive details, personal opinions, or unrelated information. Summaries serve to quickly inform readers or listeners about the substance of something, allowing them to understand the core idea or make a decision on whether to engage with the full material."
+    },
+    {
+        id: 8,
+        title: "Gadget Reviews for Tech Enthusiasts",
+        titleDetail: 'Ai Virtual Assistants To Increase Your Productivity',
+        author: "Jessica Smith",
+        comments: 3,
+        excerpt: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s...",
+        imageUrl: "/img9.webp",
+        tags: ["Gadget", "Entertainment"],
+        views: 320,
+        readTime: "3 Min Read",
+        summary: "A summary is a brief statement that gives the main points or essential information of a longer text, event, or document. It provides a condensed overview of the original content without including extensive details, personal opinions, or unrelated information. Summaries serve to quickly inform readers or listeners about the substance of something, allowing them to understand the core idea or make a decision on whether to engage with the full material.",
+        
+    },
+];
